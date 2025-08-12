@@ -1,0 +1,4 @@
+npm install --global expo-cli
+
+cd ecommerce-api
+npm install express mongoose cors dotenv bcrypte
